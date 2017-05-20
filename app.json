@@ -2,7 +2,7 @@
   "name": "My Domain Sample",
   "description": "A simple example to brand your Salesforce My Domain",
   "repository": "https://github.com/jkaltenthaler/MyDomain-Sample",
-  "website": "https://www.salesforce.com/platform/identity",
+  "website": "https://orrfellowship.my.salesforce.com",
   "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
   "keywords": ["salesforce"],
   "success_url": "/",
